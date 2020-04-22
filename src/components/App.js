@@ -21,7 +21,7 @@ class App extends Component {
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
                   <img src={logo} className="App-logo" alt="logo" />
-                <h1>Dapp University Starter Kit</h1>
+                <h1>Starter Kit</h1>
                 <p>
                   Edit <code>src/components/App.js</code> and save to reload.
                 </p>
