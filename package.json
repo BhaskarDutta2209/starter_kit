@@ -19,7 +19,7 @@
     "react-dom": "16.13.1",
     "react-scripts": "3.4.1",
     "truffle": "5.1.22",
-    "web3": "1.2.6"
+    "web3": "4.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
